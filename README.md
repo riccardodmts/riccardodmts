@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riccardodmts
-- 👀 I’m interested in Control Engineering, AI and coding
+- 👀 I’m interested in control system engineering, AI and coding
 - 🌱 I’m currently studying control system engineering & ML
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: riicardo@demonte.it
