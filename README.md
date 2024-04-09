@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riccardodmts
+- 👋 Hi, I’m Riccardo De Monte
 - 👀 I’m interested in control system engineering, AI and coding
 - 🌱 I’m currently a researcher at the University of Padova
 - 💞️ I’m looking to collaborate on ML projects
