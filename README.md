@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riccardodmts
 - 👀 I’m interested in control system engineering, AI and coding
-- 🌱 I’m currently studying control system engineering & ML
+- 🌱 I’m currently a researcher at the University of Padova
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: riccardo@demonte.it
 
